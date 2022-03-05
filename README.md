@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/80799518/156886160-7d6e26f2-ff90-48b0-b4e2-3e19bbc9f81b.png" alt="Bt">  
+<p align="center"><img src="https://user-images.githubusercontent.com/80799518/156887396-9a47c4e1-f509-473d-b94f-9f6b427a6df1.png" alt="Bt">  
 <p align="center">
 <a href="https://github.com/Noob-Junk"><img title="PHILIPPINES" src="https://img.shields.io/badge/FROM%20-PHILIPPINES-pink"></a>
 
