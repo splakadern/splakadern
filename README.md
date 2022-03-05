@@ -7,7 +7,7 @@
 <a href="https://m.me/splakadern"><img title="messenger" src="https://img.shields.io/badge/Messenger-white?style=for-the-badge&logo=messenger&logoColor=black"></a>
 
 <P align="center">
-<p>𝙈𝙤𝙨𝙩 𝙝𝙖𝙘𝙠𝙚𝙧𝙨 𝙖𝙧𝙚 𝙮𝙤𝙪𝙣𝙜 𝙗𝙚𝙘𝙖𝙪𝙨𝙚 𝙮𝙤𝙪𝙣𝙜 𝙥𝙚𝙤𝙥𝙡𝙚 𝙩𝙚𝙣𝙙 𝙩𝙤 𝙗𝙚 𝙖𝙙𝙖𝙥𝙩𝙖𝙗𝙡𝙚. 𝘼𝙨 𝙡𝙤𝙣𝙜 𝙖𝙨 𝙮𝙤𝙪 𝙧𝙚𝙢𝙖𝙞𝙣 𝙖𝙙𝙖𝙥𝙩𝙖𝙗𝙡𝙚, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚 𝙖 𝙜𝙤𝙤𝙙 𝙝𝙖𝙘𝙠𝙚𝙧.</p>
+<p><big>hello</big></p>
 <p align="center">
 <a href="https://github.com/splakadern"><img title="splakadern" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splakadern&layout=compact&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
