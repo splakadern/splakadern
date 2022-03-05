@@ -7,7 +7,7 @@
 <a href="https://m.me/splakadern"><img title="messenger" src="https://img.shields.io/badge/Messenger-white?style=for-the-badge&logo=messenger&logoColor=black"></a>
 
 <p align="center">
-<p>borgir ka saken</p>
+<p>borgir ka saken mamaya</p>
 <p align="center">
 <a href="https://github.com/splakadern"><img title="splakadern" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splakadern&layout=compact&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
