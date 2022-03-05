@@ -4,8 +4,6 @@
 
 <p align="center">
 <a href="https://facebook.com/splakadern"><img title="facebook" src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=black"></a>
-
-<p align="center">
 <a href="https://m.me/splakadern"><img title="messenger" src="https://img.shields.io/badge/Messenger-white?style=for-the-badge&logo=messenger&logoColor=black"></a>
 
 <P align="center">
