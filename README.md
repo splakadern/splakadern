@@ -9,8 +9,7 @@
 <a href="https://github.com/Noob-Junk"><img title="PHILIPPINES" src="https://img.shields.io/badge/FROM%20-PHILIPPINES-pink"></a>
 
 <P align="center">
-<p>Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker.</p>
-
+<p>𝙈𝙤𝙨𝙩 𝙝𝙖𝙘𝙠𝙚𝙧𝙨 𝙖𝙧𝙚 𝙮𝙤𝙪𝙣𝙜 𝙗𝙚𝙘𝙖𝙪𝙨𝙚 𝙮𝙤𝙪𝙣𝙜 𝙥𝙚𝙤𝙥𝙡𝙚 𝙩𝙚𝙣𝙙 𝙩𝙤 𝙗𝙚 𝙖𝙙𝙖𝙥𝙩𝙖𝙗𝙡𝙚. 𝘼𝙨 𝙡𝙤𝙣𝙜 𝙖𝙨 𝙮𝙤𝙪 𝙧𝙚𝙢𝙖𝙞𝙣 𝙖𝙙𝙖𝙥𝙩𝙖𝙗𝙡𝙚, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙖𝙡𝙬𝙖𝙮𝙨 𝙗𝙚 𝙖 𝙜𝙤𝙤𝙙 𝙝𝙖𝙘𝙠𝙚𝙧.</p>
 <p align="center">
 <a href="https://github.com/splakadern"><img title="splakadern" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splakadern&layout=compact&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
