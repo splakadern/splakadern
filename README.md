@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/80799518/156887785-97cbd82a-5500-419f-b6f6-4664dc06d8a5.png" alt="Bt">  
+<p align="center"><img src="https://user-images.githubusercontent.com/80799518/160412808-b0453f84-a9b6-405f-b9d6-37bfb925145b.jpg" alt="Bt">  
 <p align="center">
 <a href="https://github.com/splakadern"><img title="splakadern" src="https://img.shields.io/badge/Good%20-Shit-pink"></a>
 
